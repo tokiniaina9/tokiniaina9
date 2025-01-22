@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 mars 2021, 20:15:38
+    Author     : Toky
+*/
+
+.pan_cle{
+    /*    -fx-background-color: #0078D7;*/
+    -fx-border-color: black; 
+}
+/*
+.pan_cle *{
+    -fx-text-fill: #fff;
+}
+
+
+.pan_cle Pane GridPane *{
+    -fx-text-fill: #fff;
+}*/
